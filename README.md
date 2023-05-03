@@ -1,18 +1,9 @@
 ![Rajkumar](https://telegra.ph/file/1cd2438881e52ff44124d.jpg)
-# Hi there 👋, I'm 💜「 𝐑𝐚𝐣𝐤𝐮𝐦𝐚𝐫™ 」💜 °•♡왕자♡•°
+# Hi there 👋, I'm 💜「 Kirito™ 」💜 °
 
-Hey, I'm Rajkumar Wadiwala, a Web Developer 🚀, Back End Developer & Telegram Bot Developer from India.
+Hey, I'm Ishant Yadav, a Web Developer 🚀, Back End Developer & Telegram Bot Developer from India.
 
- ## Information:
 
-- 🔭 I’m currently working on  **Open Source Projects, Website, API and Telegram Bots.**
-- 🌱 I’m currently learning  **React.JS and C++ etc**
-- 👯 I’m looking to collaborate on **More Open Source Projects.**
-- 🤔 I’m looking for help with  **Data Structures and DP stuff.**
-- 💬 Ask me about  Anything related to **Tech.**
-- 📫 Contact me at :  **Rajkumarwadiwala4@gmail.com.**
-- 😄 Pronouns :  **He/Him.**
-- ⚡ Fun fact : **JavaScript >>>> Python.**
 
 ## Languages and Tools:
 
@@ -38,5 +29,5 @@ Hey, I'm Rajkumar Wadiwala, a Web Developer 🚀, Back End Developer & Telegram 
 
 ## Stats:  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Awesome-RJ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awesome-RJ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevXkirito&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXkirito&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
