@@ -1,4 +1,4 @@
-![Rajkumar](https://telegra.ph/file/1cd2438881e52ff44124d.jpg)
+
 # Hi there 👋, I'm 💜「 Kirito™ 」💜 °
 
 Hey, I'm Ishant Yadav, a Web Developer 🚀, Back End Developer & Telegram Bot Developer from India.
